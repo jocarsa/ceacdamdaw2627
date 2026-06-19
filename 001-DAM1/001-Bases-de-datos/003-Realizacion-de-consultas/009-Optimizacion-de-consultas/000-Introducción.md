@@ -1,0 +1,3 @@
+# Introducción
+
+## Optimización de consultas

@@ -1,0 +1,3 @@
+# Introducción
+
+## Mecanismos de consulta

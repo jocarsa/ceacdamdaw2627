@@ -1,0 +1,3 @@
+# Introducción
+
+## Plantear posibles soluciones

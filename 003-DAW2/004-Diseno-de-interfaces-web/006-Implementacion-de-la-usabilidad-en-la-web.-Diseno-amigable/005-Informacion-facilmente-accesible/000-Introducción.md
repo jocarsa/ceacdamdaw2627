@@ -1,0 +1,3 @@
+# Introducción
+
+## Información fácilmente accesible.

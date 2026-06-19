@@ -1,0 +1,3 @@
+# Introducción
+
+## Recopilación de información

@@ -1,0 +1,3 @@
+# Introducción
+
+## Posibles imprevistos

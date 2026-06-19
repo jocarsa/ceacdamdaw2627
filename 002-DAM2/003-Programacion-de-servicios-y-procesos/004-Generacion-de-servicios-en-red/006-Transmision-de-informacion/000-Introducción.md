@@ -1,0 +1,3 @@
+# Introducción
+
+## Transmisión de información

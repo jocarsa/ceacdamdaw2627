@@ -1,0 +1,3 @@
+# Introducción
+
+## Contexto gráfico. Imágenes

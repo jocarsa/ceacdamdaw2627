@@ -1,0 +1,3 @@
+# Introducción
+
+## Placas base. Formatos

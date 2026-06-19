@@ -1,0 +1,3 @@
+# Introducción
+
+## Agrupamiento de registros

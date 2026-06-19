@@ -1,0 +1,3 @@
+# Introducción
+
+## Sockets. Tipos. Características

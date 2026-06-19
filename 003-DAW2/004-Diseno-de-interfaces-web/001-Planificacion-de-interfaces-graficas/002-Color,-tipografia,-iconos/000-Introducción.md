@@ -1,0 +1,3 @@
+# Introducción
+
+## Color, tipografía, iconos.
